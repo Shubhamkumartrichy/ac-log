@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+<<<<<<< HEAD
 
 #define int long long int
 #define endl '\n'
@@ -49,6 +50,10 @@ int ncr(int n, int r) {
     }
     return ans;
 }
+=======
+#define int long long int
+#define endl '\n'
+>>>>>>> 47d82490aad681e2a93f812a15507a1ceecac184
 
 int32_t main() {
     ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);

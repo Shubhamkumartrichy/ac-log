@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+<<<<<<< HEAD
 
 #define int long long
 #define endl '\n'
@@ -69,3 +70,22 @@ int32_t main(){
 
     return 0;
 }
+=======
+#define int long long int
+#define endl '\n'
+
+int32_t main() {
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+    #ifdef shubhamkumarco
+    freopen("input.txt", "r" , stdin);
+    freopen("output.txt", "w", stdout);
+    #endif
+
+    int t;
+    cin>>t;
+    while(t--){
+
+    }
+}
+
+>>>>>>> 47d82490aad681e2a93f812a15507a1ceecac184
